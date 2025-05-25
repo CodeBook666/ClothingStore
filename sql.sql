@@ -1,0 +1,1 @@
+SELECT * FROM gui_cw.registration;
